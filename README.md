@@ -12,6 +12,10 @@ ctrl + c <br/>
 
 ##### Sociallogin:
 pip install "django-allauth[socialaccount]"<br/>
+pip install django-environ<br/>
 <br/>
+
+##### Callback URI:
+http://localhost:8000/accounts/google/login/callback/<br/>
 
 
